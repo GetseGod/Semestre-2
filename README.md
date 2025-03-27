@@ -1,0 +1,1 @@
+YA SIRVE MI G++!!! YA PUEDO USAR C
