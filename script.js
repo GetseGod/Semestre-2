@@ -1,6 +1,6 @@
 // Array de datos
 const nombres = [
-    { id: 261177, nombre: "Cesar" },
+    { id: 549736, nombre: "Getsemani" },
     { id: 260982, nombre: "Robert" },
 ];
 
